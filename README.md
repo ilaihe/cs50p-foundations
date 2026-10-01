@@ -17,3 +17,10 @@ A structured repository tracking solutions, computational logic, and automated w
 - [x] **File Extensions (`extensions.py\`)**: Suffix mapping to MIME media types using `.endswith()`. 
 - [x] **Math Interpreter (`interpreter.py`)**: String parsing with `.split()`, variable unpacking, and float conversions. 
 - [x] **Meal Time (`meal.py\`)**: Helper functions with return values and converting time strings into decimal hours.
+
+### Week 2: Loops 
+- [x] **camelCase (`camel.py\`)**: String iteration and uppercase detection (`.isupper()`) to convert camelCase to snake_case. 
+- [x] **Coke Machine (`coke.py`)**: `while` loop implementation for running total calculation and coin validation. 
+- [x] **Just setting up my twttr (`twttr.py`)**: Vowel filtering via string iteration and containment checks (`not in`). 
+- [x] **Vanity Plates (`plates.py`)**: Multi-rule plate validation function with length, alphanumeric, and digit checks. 
+- [x] **Nutrition Facts (`nutrition.py`)**: Case-insensitive dictionary (`dict`) lookup for fruit calorie counts.
