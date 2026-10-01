@@ -24,3 +24,9 @@ A structured repository tracking solutions, computational logic, and automated w
 - [x] **Just setting up my twttr (`twttr.py`)**: Vowel filtering via string iteration and containment checks (`not in`). 
 - [x] **Vanity Plates (`plates.py`)**: Multi-rule plate validation function with length, alphanumeric, and digit checks. 
 - [x] **Nutrition Facts (`nutrition.py`)**: Case-insensitive dictionary (`dict`) lookup for fruit calorie counts.
+
+### Week 3: Exceptions 
+- [x] **Fuel Gauge (`fuel.py`)**: Fraction string parsing (`X/Y`), percentage calculation, handling `ValueError` and `ZeroDivisionError`, and range validation. 
+- [x] **Felipe's Taqueria (`taqueria.py\`)**: Running order total calculation formatted as currency, dictionary lookups (`.title()`), and handling `EOFError` (`Ctrl+D`). 
+- [x] **Grocery List (`grocery.py`)**: Uppercase string conversion, dictionary frequency mapping, handling `EOFError`, and sorted list output using `sorted()`. 
+- [x] **Outdated (`outdated.py`)**: Converting dual date formats (`MM/DD/YYYY` and `Month Day, Year`) into ISO 8601 (\`YYYY-MM-DD\`) with 4-digit year and 2-digit month/day zero-padding using list indexing (`months.index()`).
